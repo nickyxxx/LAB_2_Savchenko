@@ -80,6 +80,7 @@ public class MainActivity extends AppCompatActivity {
         {
             int charCount = Counter.countChars(inputText);
             countTextView.setText("Characters: " + charCount);
+
         }
 
     }
